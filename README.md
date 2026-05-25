@@ -26,6 +26,10 @@ The project includes:
 
 ![Gurgaon Real Estate App](images/app_screenshot.png)
 
+## 🚀 Live Demo
+
+[Open Live App](https://nitinsrivastva-gurgaon-real-estate-analysis-app-vwzwgc.streamlit.app/)
+
 # 🚀 Technologies Used
 
 - Python
